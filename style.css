@@ -1,0 +1,33 @@
+.product{
+    border: 1px solid #eaeaec;
+    margin: 2px 2px 8px 2px;
+    padding: 10px;
+    text-align: center;
+    background-color: #efefef;
+}
+
+table,th,tr{
+text-align: center;
+}
+
+.title2{
+text-align: center;
+color: #66afe9;
+background-color: #efefef;
+padding: 2%;
+}
+
+h2{
+text-align: center;
+color: #66afe9;
+background-color: #efefef;
+padding: 2%;
+}
+
+table th{
+background-color: #efefef;
+}
+
+.delet-buttons{
+    color: rgb(244, 4, 12);
+}
